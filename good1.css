@@ -1,0 +1,27 @@
+#container {
+width: 1000px;
+height: 100%
+margin: auto;
+}
+
+#collage {
+		height:500 px;
+		position: absolute;
+		top: 50%
+		margin-top: -100px;
+}
+
+
+#minion:hover {
+		filter: url(#blur);
+			}
+			
+
+
+#yellow:hover
+{ opacity: 0.8; stroke: #0F0; stroke-width: 8px; }
+#red:hover
+{ opacity: 0.8; }
+#purple:hover
+{ opacity: 0.3; stroke: #0G0; stroke-width: 50px; }
+
